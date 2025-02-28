@@ -11,7 +11,7 @@
 ## Sumber Data
 
 ## Tools yang Digunakan
-**Scrapy**
+- **Scrapy**
 - **NLTK**
 - **Pandas**
 
